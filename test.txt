@@ -1,3 +1,0 @@
-Git Workshop!
-
-Trying out commit with Git

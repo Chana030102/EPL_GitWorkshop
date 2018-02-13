@@ -1,0 +1,2 @@
+This file should be in the branch "Example2" and
+not exist in the master.

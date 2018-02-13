@@ -1,2 +1,6 @@
 This file should be in the branch "Example2" and
+
+extra text
+
+
 not exist in the master.
